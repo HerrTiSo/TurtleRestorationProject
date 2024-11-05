@@ -53,6 +53,17 @@ Below is a list of known issues currently affecting the Turtle Restoration Proje
 | Label Font Glitches        | Some city and region labels appear distorted after ML upscaling.            | Scheduled for Phase 2 | Requires manual relabeling.               |
 | Blurry Zoom Levels         | When using the Magnify add-on, certain zoom levels show reduced sharpness.  | Investigating    | Likely due to engine limitations.         |
 
+---
+
+## How to Use
+
+The modules of the Turtle Restoration Project (TRP) are currently provided as sets of **.blp files**. To install them, simply place the provided `Interface` folder in the `/Data` directory of your WoW installation. 
+
+For example, if you’re installing the Ironforge map, the path should look like this:
+
+`WoW/Data/Interface/WorldMap/Ironforge/*.blp`
+
+Once placed correctly, the enhanced maps will be automatically loaded in-game.
 
 ---
 
