@@ -2,9 +2,9 @@
 
 > *"Ye think ye know the lands o' Azeroth, do ye? There's much yet to discover, if yer willing to seek it."* – Brann Bronzebeard
 
-The **Turtle Restoration Project** (TRP) enhances the world maps of World of Warcraft’s classic era (version 1.12.1) through machine learning upscaling, tailored specifically for [**Turtle WoW**](https://turtle-wow.org). Created to complement the server’s fan-made expansion, **Mysteries of Azeroth**, TRP aligns with the server’s mission to deepen players’ connection to the **Vanilla WoW** world, capturing Azeroth’s timeless sense of adventure.
+The **Turtle Restoration Project** (TRP) enhances the world maps and loading screens of World of Warcraft’s classic era (version 1.12.1) through machine learning upscaling, tailored specifically for [**Turtle WoW**](https://turtle-wow.org). Created to complement the server’s fan-made expansion, **Mysteries of Azeroth**, TRP aligns with the server’s mission to deepen players’ connection to the **Vanilla WoW** world, capturing Azeroth’s timeless sense of adventure.
 
-At higher resolutions, the original Vanilla maps appear blurry and lack detail. TRP addresses this by doubling the in-game resolution of map files, while effectively increasing visual detail up to four times. The result is a sharper, more immersive map experience that enhances exploration while preserving Azeroth’s iconic charm.
+At higher resolutions, the original Vanilla maps and loading screens appear blurry and lack detail. TRP addresses this by doubling the in-game resolution of map and loading screen files, while effectively increasing visual detail up to four times. The result is a sharper experience that enhances exploration and transitions, while preserving Azeroth’s iconic charm.
 
 **Note:** While TRP aims for high-resolution quality, the limitations of the old WoW engine require careful adjustments to avoid crashes or instability. As a result, the final map quality may not fully match the resolution of current retail WoW maps but should come impressively close.
 
@@ -32,6 +32,7 @@ Below is an overview of the current progress on TRP. Each zone goes through thre
 | Capitals                 | ✅        |            |          |
 | Durotar                  | In Progress        |            |          |
 | Elwynn Forest            | In Progress        |            |          |
+| Loading Screens          | In Progress        |            |          |
 | ...                      |          |            |          |
 
 ---
@@ -49,6 +50,18 @@ Below is a list of known issues currently affecting the Turtle Restoration Proje
 
 ---
 
+## Support the Project
+
+The Turtle Restoration Project (TRP) is a solo, passion-driven effort to enhance the classic World of Warcraft experience. If you enjoy the improvements TRP brings to Turtle WoW and would like to support further development, please consider a small, voluntary contribution.
+
+Your support helps me dedicate more time and resources to refining maps, loading screens, and other elements—as well as creating additional add-ons—to enrich the Vanilla WoW experience for the community.
+
+- [Ko-fi](https://ko-fi.com/thatguyturtles) – Buy me a coffee to show your appreciation and help fund the project.
+- [PayPal](https://paypal.me/tisobr) – One-time donations are also greatly appreciated.
+
+Thank you for being part of the TRP journey and helping to bring Azeroth to life in new ways!
+
+---
 
 For more information or to join the discussion, please visit the [GitHub Repository](https://github.com/HerrTiSo/TurtleRestorationProject) and [Turtle Forum](https://exampleforum.com).
 
