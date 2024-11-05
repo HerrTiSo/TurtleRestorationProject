@@ -70,12 +70,12 @@ Once placed correctly, the enhanced maps will be automatically loaded in-game.
 
 ## Support the Project
 
-The Turtle Restoration Project (TRP) is a solo, passion-driven effort to enhance the classic World of Warcraft experience. If you enjoy the improvements TRP brings to Turtle WoW and would like to support further development, please consider a small, voluntary contribution.
+The Turtle Restoration Project (TRP) is a solo, passion-driven effort to enhance the classic World of Warcraft experience. If you enjoy the improvements TRP brings to Turtle WoW and would like to support further development, you might consider a small, voluntary contribution.
 
 Your support helps me dedicate more time and resources to refining maps, loading screens, and other elements—as well as creating additional add-ons—to enrich the Vanilla WoW experience for the community.
 
-- [Ko-fi](https://ko-fi.com/thatguyturtles) – Buy me a coffee to show your appreciation and help fund the project.
-- [PayPal](https://paypal.me/tisobr) – One-time donations are also greatly appreciated.
+- **[Ko-fi](https://ko-fi.com/thatguyturtles)** – Buy me a coffee to show your appreciation and help fund the project.
+- **[PayPal](https://paypal.me/tisobr)** – One-time donations are also greatly appreciated.
 
 Thank you for being part of the TRP journey and helping to bring Azeroth to life in new ways!
 
