@@ -5,8 +5,8 @@
 The **Turtle Restoration Project** (TRP) enhances the world maps and loading screens of World of Warcraft’s classic era (version 1.12.1) through machine learning upscaling, tailored specifically for [**Turtle WoW**](https://turtle-wow.org). Created to complement the server’s fan-made expansion, **Mysteries of Azeroth**, TRP aligns with the server’s mission to deepen players’ connection to the **Vanilla WoW** world, capturing Azeroth’s timeless sense of adventure.
 
 <p align="center">
-  <img src="images/sw_comparison.jpeg" alt="Stormwind in-game comparison" width="45%">
-  <img src="images/detail_enhancement.jpeg" alt="detail enhancement example for the map" width="45%">
+  <img src="images/sw_comparison.jpeg" alt="Stormwind in-game comparison" target="_blank" width="45%">
+  <img src="images/detail_enhancement.jpeg" alt="detail enhancement example for the map" target="_blank" width="45%">
 </p>
 
 At higher resolutions, the original Vanilla maps and loading screens appear blurry and lack detail. TRP addresses this by doubling the in-game resolution of map and loading screen files, while effectively increasing visual detail up to four times. The result is a sharper experience that enhances exploration and transitions, while preserving Azeroth’s iconic charm.
