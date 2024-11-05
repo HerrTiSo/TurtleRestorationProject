@@ -1,6 +1,7 @@
 # Turtle Restoration Project (TRP)
 
-> *"Ye think ye know the lands o' Azeroth, do ye? There's much yet to discover, if yer willing to seek it."* – Brann Bronzebeard
+> *"Ye think ye know the lands o' Azeroth, do ye? There's much yet to discover, if yer willing to seek it."*<br>  
+> – Brann Bronzebeard
 
 The **Turtle Restoration Project** (TRP) enhances the world maps and loading screens of World of Warcraft’s classic era (version 1.12.1) through machine learning upscaling, tailored specifically for [**Turtle WoW**](https://turtle-wow.org). Created to complement the server’s fan-made expansion, **Mysteries of Azeroth**, TRP aligns with the server’s mission to deepen players’ connection to the **Vanilla WoW** world, capturing Azeroth’s timeless sense of adventure.
 
