@@ -35,7 +35,7 @@ Below is an overview of the current progress on TRP. Each zone goes through thre
 | World Overview           | ✅        |            |          |
 | Eastern Kingdoms Overview | ✅        |            |          |
 | Kalimdor Overview        | ✅        |            |          |
-| Capitals                 | ✅        |            |          |
+| Capitals                 | In Progress       |            |          |
 | Durotar                  | In Progress        |            |          |
 | Elwynn Forest            | In Progress        |            |          |
 | Loading Screens          | In Progress        |            |          |
