@@ -49,9 +49,10 @@ Below is a list of known issues currently affecting the Turtle Restoration Proje
 
 | Issue                      | Description                                                                 | Status           | Notes                                     |
 |----------------------------|-----------------------------------------------------------------------------|------------------|-------------------------------------------|
-| Overlapping Alpha Borders  | Borders between explored and unexplored areas have overlapping alpha channels, resulting in a checkerboard effect. | Acknowledged     | Investigating solutions to improve visuals. |
-| Label Font Glitches        | Some city and region labels appear distorted after ML upscaling.            | Scheduled for Phase 2 | Requires manual relabeling.               |
-| Blurry Zoom Levels         | When using the Magnify add-on, certain zoom levels show reduced sharpness.  | Investigating    | Likely due to engine limitations.         |
+| Overlapping Alpha Borders  | Borders between explored and unexplored areas have overlapping alpha channels, resulting in a checkerboard effect. | Acknowledged     | Investigating potential fixes. |
+| General Glitches           | Some areas of the upscaled maps display graphical glitches, particularly noticeable in Thunder Bluff. | Investigating    | Likely to be addressed in the next update. |
+| Label Font Issues          | Some city and region labels appear distorted after machine learning upscaling. | Scheduled for Phase 2 | Requires manual relabeling for clarity.   |
+| Blurry Zoom Levels         | When using the Magnify add-on, certain zoom levels show reduced sharpness.  | Investigating    | Likely caused by engine limitations.      |
 
 ---
 
