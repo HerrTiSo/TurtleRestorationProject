@@ -45,7 +45,7 @@ Below is an overview of the current progress on TRP. Each zone goes through thre
 
 ## Known Issues
 
-Below is a list of known issues currently affecting the Turtle Restoration Project. Each issue includes a brief description, status, and relevant notes. This section will be updated as fixes or workarounds are implemented. If you come across other issues, please report them by opening an issue on GitHub or posting in the forums.
+Below is a list of known issues currently affecting the Turtle Restoration Project. Each issue includes a brief description, status, and relevant notes. This section will be updated as fixes or workarounds are implemented. If you come across other issues, please report them by opening an issue on GitHub or commenting [the post in the forums](https://forum.turtle-wow.org/viewtopic.php?t=15601).
 
 | Issue                      | Description                                                                 | Status           | Notes                                     |
 |----------------------------|-----------------------------------------------------------------------------|------------------|-------------------------------------------|
@@ -79,6 +79,6 @@ Thank you for being part of the TRP journey and helping to bring Azeroth to life
 
 ---
 
-For more information or to join the discussion, please visit the [GitHub Repository](https://github.com/HerrTiSo/TurtleRestorationProject) and [Turtle Forum](https://exampleforum.com).
+For more information or to join the discussion, please visit the [GitHub Repository](https://github.com/HerrTiSo/TurtleRestorationProject) and [Turtle Forum post](https://forum.turtle-wow.org/viewtopic.php?t=15601).
 
 ## Rediscover Azeroth with the Turtle Restoration Project—one map at a time!
